@@ -1,0 +1,27 @@
+# Data folder
+data/
+
+# Zip files
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch model files
+*.pth
+*.pt
+*.ckpt
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+*.egg-info/
